@@ -1,7 +1,7 @@
  # Olá! sou a Rita de Cássia 👩‍💻
 
    <div>
-      :books: Estudante de Sistemas de Informação na       SPTech, desde jan/2023 <br/>
+      :books: Estudante de Sistemas de Informação na       SPTech, desde jan/2023 <br/> <br/>
  
  :computer: Atualmente, utilizo essas linguagens: <img align="center" alt="Rita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
