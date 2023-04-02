@@ -9,9 +9,7 @@
    <div/>
   
  
-[![Rita-de-CassiaB](https://github-readme-stats.vercel.app/api?username=Rita-de-CassiaB&layout=compact&theme=dracula)](https://github.com/Rita-de-CassiaB/github-readme-stats)
-  
-  [![Rita-de-CassiaB](https://github-readme-stats.vercel.app/api/top-langs/?username=Rita-de-CassiaB&layout=compact&theme=dracula)](https://github.com/Rita-de-CassiaB/github-readme-stats)
+[![Rita-de-CassiaB](https://github-readme-stats.vercel.app/api?username=Rita-de-CassiaB&layout=compact&theme=dracula)](https://github.com/Rita-de-CassiaB/github-readme-stats)  [![Rita-de-CassiaB](https://github-readme-stats.vercel.app/api/top-langs/?username=Rita-de-CassiaB&layout=compact&theme=dracula)](https://github.com/Rita-de-CassiaB/github-readme-stats)
   
   
   <div>
