@@ -1,10 +1,11 @@
  # Olá! sou a Rita de Cássia 👩‍💻
 
    <div>
-      :books: Estudante de Sistemas de Informação na       SPTech, desde jan/2023 <br/> <br/>
+      :books: Estudante de Sistemas de Informação na       SPTech, desde jan/2023  :computer:   <br/> <br/>
  
- :computer:  <img align="center" alt="Rita-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Rita-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rita-CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rita-JS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Rita-VSC" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img align="center" alt="Rita-MSQ"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
     <img align="center" alt="Rita-PY" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
